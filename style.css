@@ -1,0 +1,143 @@
+
+body{
+  background-color: black;
+}
+.logo img{
+  width: 40px;
+  height: 40px;
+  margin-top: 10px;
+  margin-left: 5px;
+  border-radius:40px
+  
+
+  }
+
+.logo h5{
+  font-size:20px;
+  margin:15px 5px;
+}
+.logo{
+  display:flex;
+  background-color: gray;
+  background-position: 0%;
+  margin-bottom: 5px;
+
+}
+.signin{
+ margin:auto;
+ margin-right: 10px;
+ display:flex
+}
+.signin img{
+  width: 30px;
+  height: 30px;
+  margin-top:10px;
+ }
+
+.signin h6{
+  margin-top: 20px;
+  margin-left: 2px;
+  font-size: 12px;
+ 
+ }
+ #searchbar{
+  margin:auto;
+  margin-left:350px;
+  margin-top: 10px;
+  margin-right:0px;
+  width:300px;
+}
+.search img{
+  width:20px;
+  height:20px;
+  margin-top: 10px;
+}
+
+.gamepass img{
+  width:30px;
+  height:30px
+}
+.gamepass {
+ display:flex;
+ width: 150px;
+ margin-bottom: 0px;
+ margin-right:0px
+
+ 
+}
+.gamepass h6{
+ margin-top: 8px;
+ margin-left: 5px;
+ font-size:15px;
+ margin-bottom: 0px;
+ color:white;
+}
+
+.mylibrary img{
+  width:30px;
+  height:30px
+}
+
+.mylibrary {
+ display:flex;
+ width: 150px;
+ margin-bottom: 0px;
+ margin-right: 100px;
+}
+.mylibrary h6{
+ margin-top: 8px;
+ margin-left: 5px;
+ font-size:15px;
+ margin-bottom: 0px;
+ color:white;
+}
+
+.cloud img{
+  margin-bottom: 5px;
+  width:30px;
+  height:30px
+  
+}
+
+.cloud{
+ display:flex;
+ width: 150px;
+ margin-bottom: 0px;
+}
+.cloud h6{
+ margin-top: 8px;
+ margin-left: 5px;
+ font-size:15px;
+ margin-bottom: 0px;
+ color:white;
+}
+
+.games img{
+  width: 100%;
+  height: 600px;
+  margin-left: 0px;
+  margin-top: 0px;
+  
+}
+.middleelements{
+  display:flex;
+  margin: 0px 500px;
+  font-size: 20px;
+  color: white;
+}
+.recentlyplayedgames img{
+  width:160px;
+  height:230px;
+
+}
+
+.populargames img{
+  width:285px;
+  height:200px;
+}
+
+h4{
+  color:white;
+}
+
+
